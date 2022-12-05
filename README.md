@@ -27,5 +27,6 @@
 
 <h2>📈 Stats</h2>
 
-![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelagein&hide=prs&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelagein&layout=compact)](https://github.com/pelagein/)
+![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelagein&hide=prs&hide_rank=true&theme=github_dark&border_color=21262d&border_radius=0)
+<img align="left" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelagein&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=0" />
+
