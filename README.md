@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1>Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" /></h1>
 
-<!--
-**Pelagein/Pelagein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🚀 About Me</h2>
 
-Here are some ideas to get you started:
+🎓 I'm Alexander, a beginner C# developer.<br>
+🚀 I have a goal, to learn the C# language.<br>
+✨ Programming for me is a creative process.<br>
+📌 I'm new to programming and I like to develop new projects and learn new technologies.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2>🛠️ Skills</h2>
+
+<b>Languages</b>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+<b>Databases</b>
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<b>IDEs</b>
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+<h2>📈 Stats</h2>
+
+![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelagein&hide=prs&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelagein&layout=compact)](https://github.com/pelagein/)
